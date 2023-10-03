@@ -59,3 +59,8 @@ fabric.properties
 .nfs*f
 .idea/
 /.idea/vcs.xml
+
+red4j-data/
+**/cp.txt
+**.java.orig
+**/target/
